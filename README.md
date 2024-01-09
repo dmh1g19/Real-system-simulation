@@ -1,9 +1,3 @@
----
-title: Database operations in a real time system
-description: Multi threading and scaling!
-recommended: true
----
-
 # RT databases
 
 The main topics covered include:
