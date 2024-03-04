@@ -188,7 +188,7 @@ We can see from the graph below, the number of accesses is linear with wall time
 
 We can also observe that WallTime is **O(1/NumThreads)** for number of threads, my computer is very bad - but with some better hardware this curve would look far better!
 
-# Data summary of operations on the databses we've made
+# Data summary of operations on the databases we've made
 <br>
 
 <img src="/img/1.7.png" width="600">
