@@ -127,6 +127,7 @@ By swapping to a hasmap we have increased the time efficiency substantially. Our
 <img src="/img/1.3-efficient.png" width="600">
 
 <br>
+
 # Multi-threaded, scalable and efficient
 
 Lets make it multi-threaded and efficient in relation to number of accesses on the database and number of threads running a process!
