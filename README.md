@@ -122,7 +122,7 @@ execution time doubles (as expected), and if you double the number keys the exec
 
 Lets run the naive and efficient engine with 1000 accesses, 10 keys, and 1 thread.
 
-By swapping to a hasmap we have incrased the time efficiency substantially. Our system is currently not thread safe.
+By swapping to a hasmap we have increased the time efficiency substantially. Our system is currently not thread safe.
 
 <img src="/img/1.3-efficient.png" width="600">
 
